@@ -6,3 +6,6 @@
 
    }
 ```
+- [x] breakfast  
+- [o] lunch
+- [] dinner
